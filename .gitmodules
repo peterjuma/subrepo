@@ -1,0 +1,6 @@
+[submodule "sub"]
+	path = sub
+	url = ./sub
+[submodule "subremote"]
+	path = subremote
+	url = https://github.com/peterjuma/sub
